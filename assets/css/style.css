@@ -211,6 +211,7 @@ body{
 	border-radius:4px;
 	font-size: 21px;
 	border:1px solid #d1d1d1;
+    padding-left: 50px;
 }
 .submit{
 	width:193px;
@@ -237,6 +238,16 @@ body{
 }
 .g:hover{
 	color:#e74c40;
+}
+.search {
+    position: relative;
+    display: inline
+}
+.search .far.fa-envelope { 
+    position: absolute;
+    top: -5px;
+    left: 12px;
+    font-size: 25px
 }
 
 
